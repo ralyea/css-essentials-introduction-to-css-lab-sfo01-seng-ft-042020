@@ -7,10 +7,12 @@ body {
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   /* Your code here! */
+  background-color: #00b3e6;
   width: 700px;
   margin: auto; 
   font-family: "Helvetica Neue";
   background: #00b3e6;
+  background: white;
   padding: 30px;
 }
 
